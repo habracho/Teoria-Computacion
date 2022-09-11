@@ -1,2 +1,2 @@
 # Teoria-Computacion
-Alfabeto $$\Sigma$$
+Alfabeto \(\Sigma \)
