@@ -1,1 +1,2 @@
 # Teoria-Computacion
+Alfabeto $$\Sigma$$
