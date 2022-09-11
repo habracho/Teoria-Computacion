@@ -1,3 +1,3 @@
 # Teoria-Computacion
 Alfabeto $\Sigma$
-Alfabeto $$ \lamda $$
+Alfabeto $$ a \in \Sigma $$
